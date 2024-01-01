@@ -54,7 +54,18 @@ SELECT TOP (1000) [state]
 
 
 /-- clean up the median_income table and add Peurto RIco data to the table
-
+SELECT TOP (1000) [state]
+      ,[densityMi]
+      ,[pop2023]
+      ,[pop2022]
+      ,[pop2020]
+      ,[pop2019]
+      ,[pop2010]
+      ,[growthRate]
+      ,[growth]
+      ,[growthSince2010]
+      ,[med_income]
+  FROM [Housing].[dbo].[median_income]
 
 DELETE FROM median_income
   WHERE state = 'true'
