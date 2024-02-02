@@ -81,7 +81,6 @@ VALUES ('Puerto Rico', 11.063, 3180885, 3221789, 3281557, 3325980, 3725789, -0.0
 SELECT * 
 FROM median_income
 
-/-- Analyzing Data 
 		
 
 SELECT realtor_data.state, 
