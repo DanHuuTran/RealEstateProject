@@ -7,6 +7,7 @@ This repository contains a data analysis project focused on real estate in a Nor
 The datasets used in this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/jayoza198/realtor-data), and it includes information on real estate transactions, property details, and other relevant features. The dataset is available in the data directory.
 
 ## Dashboard
+![Report](https://github.com/DanHuuTran/RealEstateProject/assets/133534096/50c1930a-7e69-43ac-826a-985cbd7df494)
 
 
 ## Contributing
